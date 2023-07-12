@@ -1,0 +1,1 @@
+This is my css_basic directory, it's about time we started adding good looks, layouts and styles to our html docs.
